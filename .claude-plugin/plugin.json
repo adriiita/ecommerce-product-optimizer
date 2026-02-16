@@ -1,0 +1,9 @@
+{
+  "name": "ecommerce-product-optimizer",
+  "version": "0.1.0",
+  "description": "Bulk-optimize ecommerce product listings from CSV files using parallel subagents. Generates SEO titles, descriptions, HTML body content, FAQs, and tags — Shopify-ready by default.",
+  "author": {
+    "name": "utkarsh"
+  },
+  "keywords": ["shopify", "ecommerce", "seo", "product-listings", "csv", "bulk-optimization"]
+}
