@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-product-optimizer",
+  "owner": {
+    "name": "utkarsh"
+  },
+  "plugins": [
+    {
+      "name": "ecommerce-product-optimizer",
+      "source": ".",
+      "description": "Bulk-optimize ecommerce product listings from CSV files using parallel subagents. Generates SEO titles, descriptions, HTML body content, FAQs, and tags — Shopify-ready by default."
+    }
+  ]
+}
